@@ -8,14 +8,9 @@ body {
 }
 
 .wrapper {
-    display: flex;
-    flex-direction: column;
     width: 20rem;
-    justify-content: center;
     background:hsl(216, 50%, 16%);
     border-radius: 10px;
-    align-content: center;
-    align-items: center;
     box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2)
 }
 
