@@ -60,6 +60,14 @@ img {
     color:hsl(215, 51%, 70%);
 }
 
+.clock {
+    transform:translateY(3px);
+}
+
+.diamond {
+    transform:translateY(3px);
+}
+
 .avatar {
     display: inline;
     width: 30px;
